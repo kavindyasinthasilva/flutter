@@ -8,4 +8,4 @@ gem 'xcpretty', '0.3.0'
 
 # Don't pin cocoapods so we can catch breakages from upstream changes, e.g.
 # https://github.com/flutter/flutter/issues/41144
-gem 'cocoapods'
+gem 'cocoapods', '>= 1.8.4'
