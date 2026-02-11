@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 # If fastlane fails with a wrong Google Cloud dependency, bump this version,
 # e.g. https://github.com/flutter/flutter/pull/43362
-gem 'fastlane', '2.134.0'
+gem 'fastlane', '2.183.0'
 gem 'xcpretty', '0.3.0'
 
 # Don't pin cocoapods so we can catch breakages from upstream changes, e.g.
